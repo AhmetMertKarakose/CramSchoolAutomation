@@ -1,0 +1,98 @@
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\bin\Debug\Etüt Otomasyonu.exe.config
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\bin\Debug\Etüt Otomasyonu.exe
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\bin\Debug\Etüt Otomasyonu.pdb
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.anasayfa.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.Ayarlar.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.bugunki_Etutler.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.dersler_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.etut_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.GirisEkrani.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.Menu.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.ogrenci_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.ogretmenler_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.Properties.Resources.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.sinif_Islemleri.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.tum_Etutler.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\EtutOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\Etüt Otomasyonu.exe
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\Birebir_Etut_Programi\obj\Debug\Etüt Otomasyonu.pdb
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Etüt Otomasyonu.exe.config
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Etüt Otomasyonu.exe
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Etüt Otomasyonu.pdb
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.anasayfa.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Ayarlar.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.bugunki_Etutler.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.dersler_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.etut_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.GirisEkrani.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Menu.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.ogrenci_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.ogretmenler_Sayfasi.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Properties.Resources.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.sinif_Islemleri.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.tum_Etutler.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\Etüt Otomasyonu.exe
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\Etüt Otomasyonu.pdb
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\EnvDTE.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\stdole.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.csproj.CopyComplete
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Form1.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Form2.resources
+C:\Users\ahmet mert\OneDrive\Masaüstü\Birebir_Etut_Programi\EtutOtomasyonu\obj\Debug\EtutOtomasyonu.Form3.resources
